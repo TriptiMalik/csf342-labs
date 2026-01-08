@@ -20,3 +20,4 @@ module tb;
 
     $finish;
   end
+endmodule

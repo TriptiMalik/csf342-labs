@@ -238,7 +238,7 @@ tb_fa.v
 
 ---
 
-Task 2 – Dataflow Modeling
+Task 2 – Dataflow Modeling 2
 Objective:
 Implement the same full adder using dataflow modeling.
 

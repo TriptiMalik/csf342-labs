@@ -290,7 +290,7 @@ tb_4bit.v
 
 ---
 
-Task 5 – Homework: 4-bit Adder–Subtractor
+Task 5 – Practice: 4-bit Adder–Subtractor
 Objective:
 Extend the 4-bit adder to support subtraction.
 

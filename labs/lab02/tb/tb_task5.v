@@ -4,7 +4,7 @@ module tb;
   reg clk, reset;
   reg [1:0] op;
   reg dest;
-  wire [1:0] R0, R1;
+  wire [7:0] R0, R1;
   string vcd_file;
 
   dut DUT (.clk(clk), .reset(reset), .op(op), .dest(dest), .R0(R0), .R1(R1));
